@@ -1,7 +1,8 @@
 [
   {
     "type": "MAINTENANCE",
-    "startTime": "2026-07-06T13:20:00Z",
-    "endTime": "2026-07-06T13:30:00Z"
+    "startTime": "2026-07-09T14:25:00Z",
+    "endTime": "2026-07-09T14:30:00Z",
+    "regions":["SE"]
   }
 ]
