@@ -1,8 +1,8 @@
 [
   {
     "type": "MAINTENANCE",
-    "startTime": "2026-08-27T09:15:00Z",
-    "endTime": "2026-08-28T09:20:00Z",
-    "regions":["FI"]
+    "startTime": "2026-08-27T20:00:00Z",
+    "endTime": "2026-08-28T00:00:00Z",
+    "regions":["SE","FI"]
   }
 ]
